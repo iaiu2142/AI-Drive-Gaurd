@@ -2,7 +2,7 @@
 ## *"AI Guarding Your Drive, Always :)"*  
 ---
 
-## 🌟 Inspiration  
+## Inspiration  
 ### Every year, thousands of accidents occur due to driver fatigue. **AI-DriveGuard** was born out of the desire to make roads safer by using technology to detect drowsiness and alert drivers in real time. This project is a step toward reducing accidents caused by fatigue and ensuring safer journeys for everyone.
 ---
 ## 🚀 What It Does  
