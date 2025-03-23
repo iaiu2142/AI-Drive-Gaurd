@@ -1,5 +1,5 @@
 # AI-Drive-Guard  
-**Tag *"AI Guarding Your Drive, Always :)"*  
+** *"AI Guarding Your Drive, Always :)"*  
 ---
 
 ## 🌟 Inspiration  
