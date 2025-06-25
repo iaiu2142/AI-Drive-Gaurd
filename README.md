@@ -1,4 +1,4 @@
-# AI-Drive-Guard  
+![applsci-11-08441-g001](https://github.com/user-attachments/assets/bf3721ed-2291-451e-b257-7217636d3f7b)![applsci-11-08441-g001](https://github.com/user-attachments/assets/bf3721ed-2291-451e-b257-7217636d3f7b)![applsci-11-08441-g001](https://github.com/user-attachments/assets/9391dbe2-4be7-481f-9d38-350b803d3976)![applsci-11-08441-g001](https://github.com/user-attachments/assets/9391dbe2-4be7-481f-9d38-350b803d3976)# AI-Drive-Guard  
 ## *"AI Guarding Your Drive, Always :)"*  
 ---
 
