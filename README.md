@@ -1,9 +1,10 @@
-![applsci-11-08441-g001](https://github.com/user-attachments/assets/bf3721ed-2291-451e-b257-7217636d3f7b)![applsci-11-08441-g001](https://github.com/user-attachments/assets/bf3721ed-2291-451e-b257-7217636d3f7b)![applsci-11-08441-g001](https://github.com/user-attachments/assets/9391dbe2-4be7-481f-9d38-350b803d3976)![applsci-11-08441-g001](https://github.com/user-attachments/assets/9391dbe2-4be7-481f-9d38-350b803d3976)# AI-Drive-Guard  
+# AI-Drive-Guard  
 ## *"AI Guarding Your Drive, Always :)"*  
 ---
-
 ## 🦾 Inspiration  
 ### Every year, thousands of accidents occur due to driver fatigue. **AI-DriveGuard** was born out of the desire to make roads safer by using technology to detect drowsiness and alert drivers in real time. This project is a step toward reducing accidents caused by fatigue and ensuring safer journeys for everyone.
+![Copy Image](https://github.com/user-attachments/assets/3b349af7-b242-49d9-8b2a-81c9423d4300)
+
 ---
 ## 🚀 What It Does  
 **AI-DriveGuard** is an AI-powered system that:  
