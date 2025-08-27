@@ -1,5 +1,3 @@
-# [Ilsa CV](https://drive.google.com/file/d/1sQUtCMqHInK9z0sgPGQx0FK5R0Qewyqf/view?usp=sharing)  for perusal
-
 # AI-Drive-Guard  
 ## *"AI Guarding Your Drive, Always :)"*  
 ---
